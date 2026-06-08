@@ -21,8 +21,6 @@ DAL/  CourseWork.Data             → Data Access Layer (EF Core, Repository, Un
 Tests/ CourseWork.Business.Tests  → модульні тести (xUnit, Moq)
 ```
 
-Детальніший опис — у файлі [ARCHITECTURE.md](./ARCHITECTURE.md).
-
 ## Технології
 
 | Категорія | Стек |
@@ -161,6 +159,3 @@ CourseWork/
 | Manager | ✓ | ✓ | ✓ |
 | Administrator | ✓ | ✓ | ✓ |
 
-## Ліцензія
-
-Навчальний проєкт. Вільне використання в межах курсової роботи.
